@@ -31,5 +31,3 @@ poetry run get-papers-list "cancer immunotherapy" -f results.csv --debug
 ## Heuristics for Non-Academic Authors
 Affiliations were analyzed for keywords common in pharma/biotech companies. Email addresses were also used to detect corresponding authors.
 
-## License
-MIT
